@@ -1,5 +1,5 @@
 <?php
-// error_reporting(0);
+error_reporting(0);
 // extract($_POST);
 $bunga = (float) 0.03;
 if (isset($_POST['submit'])) {
